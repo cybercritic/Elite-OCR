@@ -1,0 +1,9 @@
+﻿<Window x:Class="Elite_OCR.ImageShow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Example Region" Height="221.887" Width="307.925">
+    <Grid>
+        <Image x:Name="imImage" Margin="0,0,0,0"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\bin\Debug\critics ED OCR.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\bin\Debug\critics ED OCR.exe.manifest
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\bin\Debug\critics ED OCR.application
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\bin\Debug\critics ED OCR.exe
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\bin\Debug\critics ED OCR.pdb
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\ImageShow.baml
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\MainWindow.baml
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\ImageShow.g.cs
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\MainWindow.g.cs
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\App.g.cs
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\critics ED OCR_MarkupCompile.cache
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\critics ED OCR.g.resources
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\Elite_OCR.Properties.Resources.resources
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\critics ED OCR.csproj.GenerateResource.Cache
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\critics ED OCR.exe.manifest
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\critics ED OCR.application
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\critics ED OCR.exe
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\critics ED OCR.pdb
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\critics ED OCR.csprojResolveAssemblyReference.cache

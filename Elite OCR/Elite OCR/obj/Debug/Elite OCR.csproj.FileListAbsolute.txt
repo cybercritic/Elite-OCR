@@ -1,0 +1,13 @@
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\bin\Debug\Elite OCR.exe.config
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\bin\Debug\Elite OCR.exe
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\bin\Debug\Elite OCR.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\MainWindow.baml
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\MainWindow.g.cs
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\App.g.cs
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\Elite OCR_MarkupCompile.cache
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\Elite OCR.g.resources
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\Elite_OCR.Properties.Resources.resources
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\Elite OCR.csproj.GenerateResource.Cache
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\Elite OCR.exe
+C:\Users\Sasha\documents\visual studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\Elite OCR.pdb
+C:\Users\Sasha\Documents\Visual Studio 2013\Projects\Elite OCR\Elite OCR\obj\Debug\Elite OCR.csprojResolveAssemblyReference.cache

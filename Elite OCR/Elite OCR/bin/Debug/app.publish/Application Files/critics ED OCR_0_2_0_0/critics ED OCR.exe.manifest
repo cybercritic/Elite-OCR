@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="critics ED OCR.exe" version="0.2.0.0" publicKeyToken="b5a321bd3247cfce" language="en" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="critics ED OCR" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="critics ED OCR.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="critics ED OCR.exe" size="382376">
+      <assemblyIdentity name="critics ED OCR" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>E5dWE3QEX1bFpGhV7pU8x5hU7W84PShb6pRekqBu0TQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="critics ED OCR.exe.config" size="1531">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lkyD0G2X3IPztO4eiN/cPK+z8BLCy0oQRggtdxEpHXk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icon.ico" size="9662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cGXdfszBIDW/aK7e/f8gSUiJIeemAqNTDG9Sr8Fq954=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CRITIC\Sasha" issuerKeyHash="e0169b5fedd0a92a5fa535f9c0f1c85ef54fd7c5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>am5myR6YQ5YOEo4sUa59WmvsSugXXYhsySBTcl4xjvs=</DigestValue></Reference></SignedInfo><SignatureValue>eY885n02m/qdSqyJYXcwvoxVcE6X8HBERjwRKJNTPnxHz104LIdoN/fMDvjWLJSuwk9nFwYGgmv6HMvO9ouXc/uaK+rxSgV4r8IIBmB8pP1inlyh4yNmn213ybqjtZylqTyV/hmWt/t3BFy09+UWI9wz+LFA10LpxtqN/dBqSrY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>6iokePgh/Bz8f2YiZxIk0Ch/iulCof3OnvPHaFb+3yO/xBWMZhXIArFSQrl0oTkiimgKX/MfQDGbSR9v7pXNDLIZHPzLQ9VpalmktvXO05uwvuMHeT+g1QeICyNXldL7LGpd+n0UjklZoQWsoC0h97WZLniJHSZLrxLascHn20k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fb8e315e725320c96c885d17e84aec6b5a7dae512c8e120e9643981ec9666e6a" Description="" Url=""><as:assemblyIdentity name="critics ED OCR.exe" version="0.2.0.0" publicKeyToken="b5a321bd3247cfce" language="en" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CRITIC\Sasha</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>bKZQl4o40rrdVivf4NOj1pliE7Yn1LX16PkN29/yytc=</DigestValue></Reference></SignedInfo><SignatureValue>vULj8hLQZk3ZMGGSULeWs01xW9D+SkRtn//krqTjK1H6Dy7LzI3H8yoepCv4TPpSLJp3YAk5u8/CtsR5lLfAVISj+bBYk/TaYDLPsQyYmyMUkokDsq9HslGnhKAog5xyLch2e59uAu9tgr3COyc9RcNxaU0kJO0WR4oZ5QFELjo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>6iokePgh/Bz8f2YiZxIk0Ch/iulCof3OnvPHaFb+3yO/xBWMZhXIArFSQrl0oTkiimgKX/MfQDGbSR9v7pXNDLIZHPzLQ9VpalmktvXO05uwvuMHeT+g1QeICyNXldL7LGpd+n0UjklZoQWsoC0h97WZLniJHSZLrxLascHn20k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQYkCakSa+KKlP4E9Hf0eUXzANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgAQwBSAEkAVABJAEMAXABTAGEAcwBoAGEwHhcNMTQxMjE2MTM1MjAyWhcNMTUxMjE2MTk1MjAyWjAjMSEwHwYDVQQDHhgAQwBSAEkAVABJAEMAXABTAGEAcwBoAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOoqJHj4Ifwc/H9mImcSJNAof4rpQqH9zp7zx2hW/t8jv8QVjGYVyAKxUkK5dKE5IopoCl/zH0Axm0kfb+6VzQyyGRz8y0PVaWpZpLb1ztObsL7jB3k/oNUHiAsjV5XS+yxqXfp9FI5JWaEFrKAtIfe1mS54iR0mS68S2rHB59tJAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAu6mQT4akTs1AmMzj8NaW2aT0VPPEsjwPUQWuHLlHZBrH6G/meoPgQQ4Awg13epMg8bvgUrM1J70wqcqP96CsSIXkwRtuwM2BR0RDgJuSY6Tp09x7yFgKcEh54otceKwDQCn6zwaLjpuBlIEOLg7jjXxsFCkf28of1CPN6YzS8UQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
